@@ -1,0 +1,41 @@
+{
+  "id": "111b2159-a8f1-46bd-87c2-bfa50e3a6872",
+  "uid": "voluptas-quia-repellendus",
+  "type": "posts",
+  "data": {
+    "title": "incentivize 24/7 synergies",
+    "subtitle": "redefine vertical synergies",
+    "author": "deploy magnetic users",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "redefine bricks-and-clicks e-tailers",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Ullamco cillum et deserunt anim.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "disintermediate sexy solutions",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Amet sint culpa quis ad nulla esse mollit. Veniam officia tempor Lorem magna aliquip laborum adipisicing velit proident duis pariatur laborum Lorem non.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
